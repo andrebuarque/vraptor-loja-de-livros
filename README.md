@@ -1,1 +1,1 @@
-# Loja de livros com VRaptor.
+# Loja de livros com VRaptor
